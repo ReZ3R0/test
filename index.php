@@ -6,14 +6,7 @@
 | '_ ` _ \ / _ \ __/ _` / __| '_ \| |/ _ \| | __/ _` | '_ \| |/ _ \ __) |
 | | | | | |  __/ || (_| \__ \ |_) | | (_) | | || (_| | |_) | |  __// __/
 |_| |_| |_|\___|\__\__,_|___/ .__/|_|\___/|_|\__\__,_|_.__/|_|\___|_____|
-                            |_|
 
-
-HA HA Metasploitable2 is Powned Byu reZ3R0 
-
-Contact: reZ3R0.fr
-
-Login with msfadmin/msfadmin to get started
 
 
 </pre>
